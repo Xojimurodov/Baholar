@@ -1,0 +1,14 @@
+C:\Users\HP\Projects\Baholar\bin\Debug\net8.0\Baholar.exe
+C:\Users\HP\Projects\Baholar\bin\Debug\net8.0\Baholar.deps.json
+C:\Users\HP\Projects\Baholar\bin\Debug\net8.0\Baholar.runtimeconfig.json
+C:\Users\HP\Projects\Baholar\bin\Debug\net8.0\Baholar.dll
+C:\Users\HP\Projects\Baholar\bin\Debug\net8.0\Baholar.pdb
+C:\Users\HP\Projects\Baholar\obj\Debug\net8.0\Baholar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Projects\Baholar\obj\Debug\net8.0\Baholar.AssemblyInfoInputs.cache
+C:\Users\HP\Projects\Baholar\obj\Debug\net8.0\Baholar.AssemblyInfo.cs
+C:\Users\HP\Projects\Baholar\obj\Debug\net8.0\Baholar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Projects\Baholar\obj\Debug\net8.0\Baholar.dll
+C:\Users\HP\Projects\Baholar\obj\Debug\net8.0\refint\Baholar.dll
+C:\Users\HP\Projects\Baholar\obj\Debug\net8.0\Baholar.pdb
+C:\Users\HP\Projects\Baholar\obj\Debug\net8.0\Baholar.genruntimeconfig.cache
+C:\Users\HP\Projects\Baholar\obj\Debug\net8.0\ref\Baholar.dll
